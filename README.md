@@ -1,4 +1,4 @@
-# Wareesha Khalil — Portfolio
+# Rabail Zameer — Portfolio
 
 A responsive dark professional portfolio built with HTML, CSS and JavaScript.
 
